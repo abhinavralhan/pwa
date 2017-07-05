@@ -1,0 +1,11 @@
+CACHE MANIFEST
+#ver:2017-7-5 13:41:52
+#plugin:4.8.1
+
+CACHE:
+../dashboard.html
+../login.html
+../admin.html
+
+NETWORK:
+*
